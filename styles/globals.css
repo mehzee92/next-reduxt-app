@@ -1,0 +1,32 @@
+.product
+{
+    border:solid 1px gray;
+    padding:20px;
+    border-radius: 20px;
+    margin:10px;
+}
+
+body
+{
+    background-color: antiquewhite;
+    margin:0px;
+    padding:0px;
+}
+
+header, footer
+{
+    background-color: coral;
+    padding:15px;
+}
+
+.container
+{
+    width: 1200px;
+    margin:0 auto;
+}
+
+.px-2
+{
+    padding-left: 12px;
+    padding-right: 12px;
+}
